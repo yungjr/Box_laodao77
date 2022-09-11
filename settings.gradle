@@ -1,0 +1,3 @@
+rootProject.name = "TVBox4"
+include ':app'
+include ':player'
